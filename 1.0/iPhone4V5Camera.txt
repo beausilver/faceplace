@@ -1,0 +1,10 @@
+iPhone 4
+camera w480 X h640
+pic w320 X h480
+
+(my scale height/width = 1.5)
+camera post scale 320, 426.667
+
+iPhone5
+camera w960 X h1280
+pic w320 X h568
